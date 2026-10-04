@@ -25,7 +25,7 @@ Hosted on GitHub Pages.
 
 ## Live site
 
-**https://avi8074.github.io/live-by-sunday/**
+**https://avi8074.github.io/live-by-sunday/index%20(1).html**
 
 ## Built by
 
